@@ -1,0 +1,12 @@
+/*
+!/.gitignore
+!/.gitattributes
+!/rl/
+/rl/*
+!/rl/evalResults/
+/rl/evalResults/*
+!/rl/evalResults/var_reward_env=reward_ethicalBalance/
+!/rl/evalResults/var_reward_env=reward_ethicalBonus/
+!/rl/evalResults/var_reward_env=reward_ethicalPenalty/
+**/old/
+**/desktop.ini
