@@ -9,7 +9,7 @@ This repository currently contains **agent evaluation results** from the project
 For a concise public description, the result groups can be viewed as:
 
 ```text
-evalResults/
+rl/evalResults/
 ├── ethicalBalance/
 ├── ethicalBonus/
 └── ethicalPenalty/
